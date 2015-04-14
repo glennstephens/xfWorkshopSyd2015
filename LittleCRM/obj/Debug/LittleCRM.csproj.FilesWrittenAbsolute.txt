@@ -1,0 +1,13 @@
+/Users/glennstephens/Desktop/LittleCRM/LittleCRM/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/glennstephens/Desktop/LittleCRM/LittleCRM/obj/Debug/LittleCRM.Views.EditCustomerPage.xaml
+/Users/glennstephens/Desktop/LittleCRM/LittleCRM/obj/Debug/LittleCRM.Views.CustomersListPage.xaml
+/Users/glennstephens/Desktop/LittleCRM/LittleCRM/obj/Debug/EditCustomerPage.xaml.g.cs
+/Users/glennstephens/Desktop/LittleCRM/LittleCRM/obj/Debug/CustomersListPage.xaml.g.cs
+/Users/glennstephens/Desktop/LittleCRM/LittleCRM/bin/Debug/Xamarin.Forms.Core.dll
+/Users/glennstephens/Desktop/LittleCRM/LittleCRM/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/glennstephens/Desktop/LittleCRM/LittleCRM/bin/Debug/LittleCRM.dll.mdb
+/Users/glennstephens/Desktop/LittleCRM/LittleCRM/bin/Debug/LittleCRM.dll
+/Users/glennstephens/Desktop/LittleCRM/LittleCRM/obj/Debug/LittleCRM.dll
+/Users/glennstephens/Desktop/LittleCRM/LittleCRM/obj/Debug/LittleCRM.dll.mdb
+/Users/glennstephens/Desktop/LittleCRM/LittleCRM/bin/Debug/SQLitePCL.raw.dll
+/Users/glennstephens/Desktop/LittleCRM/LittleCRM/bin/Debug/SQLite-net.dll

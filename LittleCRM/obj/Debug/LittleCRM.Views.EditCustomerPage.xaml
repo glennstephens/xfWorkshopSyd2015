@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+  xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+  x:Class="LittleCRM.EditCustomerPage" Title="{Binding Name}">
+	<ContentPage.Content>
+		<StackLayout Padding="20">
+			<Label>Name</Label>
+			<Entry Text="{Binding Name}"></Entry>
+
+			<Label>Email</Label>
+			<Entry Text="{Binding Email}"></Entry>
+
+			<Label>Phone</Label>
+			<Entry Text="{Binding PhoneNumber}"></Entry>
+
+			<Button Text="Save" x:Name="SaveButton" BackgroundColor="Accent" TextColor="White"></Button>
+			<Button Text="Delete" x:Name="DeleteButton" BackgroundColor="Red" TextColor="White"></Button>
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>

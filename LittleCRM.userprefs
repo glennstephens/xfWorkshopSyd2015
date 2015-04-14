@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Droid/LittleCRM.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 4 (KitKat)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LittleCRM/Views/CustomersListPage.xaml.cs">
+    <Files>
+      <File FileName="LittleCRM/Infrastructure/BaseDataItem.cs" Line="1" Column="1" />
+      <File FileName="LittleCRM/LittleCRM.cs" Line="1" Column="1" />
+      <File FileName="LittleCRM/Views/EditCustomerPage.xaml" Line="1" Column="1" />
+      <File FileName="LittleCRM/Views/EditCustomerPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="LittleCRM/Views/CustomersListPage.xaml" Line="1" Column="1" />
+      <File FileName="LittleCRM/Views/CustomersListPage.xaml.cs" Line="21" Column="24" />
+      <File FileName="LittleCRM/obj/Debug/CustomersListPage.xaml.g.cs" Line="1" Column="1" />
+      <File FileName="LittleCRM/Services/IImageGravatar.cs" Line="1" Column="1" />
+      <File FileName="LittleCRM.SharedServices/GravatarFromEmail.cs" Line="1" Column="1" />
+      <File FileName="LittleCRM/Models/Customer.cs" Line="1" Column="1" />
+      <File FileName="Droid/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="LittleCRM/Services/IPlatformServices.cs" Line="1" Column="1" />
+      <File FileName="Droid/DroidPlatformServices.cs" Line="1" Column="1" />
+      <File FileName="iOS/iOSPlatformServices.cs" Line="1" Column="1" />
+      <File FileName="LittleCRM/Data/DataServices.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

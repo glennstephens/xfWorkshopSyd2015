@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="LittleCRM.CustomersListPage" Title="Customers">
+	<ContentPage.ToolbarItems>
+		<ToolbarItem Text="Add" x:Name="addCustomer"></ToolbarItem>
+	</ContentPage.ToolbarItems>
+
+	<ContentPage.Content>
+		<ListView x:Name="allCustomers">
+			<ListView.ItemTemplate>
+				<DataTemplate>
+					<ImageCell 
+						ImageSource="{Binding HeadshotUri}"
+						Text="{Binding Name}" 
+						Detail="{Binding Email}" />
+				</DataTemplate>
+			</ListView.ItemTemplate>
+		</ListView>
+	</ContentPage.Content>
+</ContentPage>
